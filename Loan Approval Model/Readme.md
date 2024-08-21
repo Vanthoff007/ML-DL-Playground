@@ -92,6 +92,6 @@ To run the project locally:
 
 ## References
 
-- Kaggle Dataset: [Link to the dataset]
+- Kaggle Dataset: [[Link to the dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)]
 - Scikit-learn Documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 
