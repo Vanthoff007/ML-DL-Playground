@@ -33,13 +33,13 @@ You can install the required packages using:
 pip install torch torchvision numpy matplotlib scikit-learn tqdm
 ```
 
-### Hardware
-GPU acceleration is recommended (enabled via CUDA in the notebook).
+## ⚙️ Hardware
+Note: GPU acceleration is highly recommended. CUDA should be enabled if running locally. If using Google Colab, ensure GPU is activated via Runtime > Change runtime type > GPU.
 
-### Dataset structure:
+## Dataset Structure
 /path/to/dataset/
-    ├── Normal/  # Folder containing TB Negative images
-    └── Tuberculosis/  # Folder containing TB Positive images
+├── Normal/          # Folder containing TB Negative images
+└── Tuberculosis/    # Folder containing TB Positive images
 
 ---
 
@@ -116,7 +116,7 @@ This notebook demonstrates a deep learning pipeline for TB detection using chest
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: [TB Chest Radiography Database](https://data.mendeley.com/datasets/rscbjbr9sj/3)
+- **Dataset**: [TB Chest Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)
 - **Inspiration**:
   - World Health Organization (WHO) TB statistics
   - [radlines.org](https://www.radlines.org) for X-ray imagery
