@@ -1,3 +1,4 @@
 # ML-DL-Playground
 
-ML-DL-Playground is a curated collection of machine learning and deep learning experiments designed to demonstrate how various algorithms and models work using real-world datasets. This repository serves as an educational and exploratory space where concepts are not just explained, but actively brought to life through practical implementation. Whether you're a beginner aiming to understand the basics or an enthusiast looking to dive deeper, this playground offers hands-on examples to bridge the gap between theory and application.
+ML-DL-Playground is my personal space where I explore and experiment with machine learning and deep learning concepts using real-world datasets. I started this repository to deepen my own understanding of how different models and algorithms work. Over time, it’s grown into a helpful starting point for anyone new to AI/ML or looking for hands-on practice. Whether you're just beginning your journey or trying to bridge the gap between theory and application, I hope this playground helps make learning more approachable and engaging.
+
